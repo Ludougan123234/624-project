@@ -1,0 +1,682 @@
+"Notes"	"County"	"County Code"	Deaths	Population	Crude Rate
+	"Baldwin County, AL"	"01003"	16	200111	Unreliable
+	"Jefferson County, AL"	"01073"	148	660793	22.40
+	"Mobile County, AL"	"01097"	18	415123	Unreliable
+	"St. Clair County, AL"	"01115"	13	86697	Unreliable
+	"Shelby County, AL"	"01117"	14	206655	Unreliable
+	"Anchorage Borough, AK"	"02020"	32	301010	10.63
+	"Fairbanks North Star Borough, AK"	"02090"	10	99357	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	11	97882	Unreliable
+	"Cochise County, AZ"	"04003"	16	127448	Unreliable
+	"Maricopa County, AZ"	"04013"	296	4087191	7.24
+	"Mohave County, AZ"	"04015"	45	203361	22.13
+	"Pima County, AZ"	"04019"	168	1004516	16.72
+	"Pinal County, AZ"	"04021"	23	401918	5.72
+	"Yavapai County, AZ"	"04025"	11	218844	Unreliable
+	"Benton County, AR"	"05007"	22	242321	9.08
+	"Garland County, AR"	"05051"	12	97322	Unreliable
+	"Pulaski County, AR"	"05119"	26	392702	6.62
+	"Washington County, AR"	"05143"	10	220792	Unreliable
+	"Alameda County, CA"	"06001"	52	1610921	3.23
+	"Butte County, CA"	"06007"	14	224241	Unreliable
+	"Contra Costa County, CA"	"06013"	52	1111339	4.68
+	"Fresno County, CA"	"06019"	70	965974	7.25
+	"Humboldt County, CA"	"06023"	29	134809	21.51
+	"Imperial County, CA"	"06025"	12	179091	Unreliable
+	"Kern County, CA"	"06029"	73	874589	8.35
+	"Kings County, CA"	"06031"	12	150269	Unreliable
+	"Lake County, CA"	"06033"	17	64184	Unreliable
+	"Los Angeles County, CA"	"06037"	291	10116705	2.88
+	"Madera County, CA"	"06039"	10	154548	Unreliable
+	"Mendocino County, CA"	"06045"	15	87869	Unreliable
+	"Merced County, CA"	"06047"	13	266353	Unreliable
+	"Monterey County, CA"	"06053"	13	431344	Unreliable
+	"Orange County, CA"	"06059"	252	3145515	8.01
+	"Riverside County, CA"	"06065"	145	2329271	6.23
+	"Sacramento County, CA"	"06067"	60	1482026	4.05
+	"San Bernardino County, CA"	"06071"	58	2112619	2.75
+	"San Diego County, CA"	"06073"	244	3263431	7.48
+	"San Francisco County, CA"	"06075"	89	852469	10.44
+	"San Joaquin County, CA"	"06077"	69	715597	9.64
+	"San Luis Obispo County, CA"	"06079"	18	279083	Unreliable
+	"San Mateo County, CA"	"06081"	20	758581	2.64
+	"Santa Barbara County, CA"	"06083"	22	440668	4.99
+	"Santa Clara County, CA"	"06085"	57	1894605	3.01
+	"Santa Cruz County, CA"	"06087"	46	271804	16.92
+	"Shasta County, CA"	"06089"	22	179804	12.24
+	"Solano County, CA"	"06095"	29	431131	6.73
+	"Sonoma County, CA"	"06097"	31	500292	6.20
+	"Stanislaus County, CA"	"06099"	16	531997	Unreliable
+	"Tulare County, CA"	"06107"	17	458198	Unreliable
+	"Ventura County, CA"	"06111"	64	846178	7.56
+	"Yolo County, CA"	"06113"	11	207590	Unreliable
+	"Adams County, CO"	"08001"	65	480718	13.52
+	"Arapahoe County, CO"	"08005"	60	618821	9.70
+	"Boulder County, CO"	"08013"	19	313333	Unreliable
+	"Denver County, CO"	"08031"	97	663862	14.61
+	"Douglas County, CO"	"08035"	17	314638	Unreliable
+	"El Paso County, CO"	"08041"	71	663519	10.70
+	"Jefferson County, CO"	"08059"	55	558503	9.85
+	"Larimer County, CO"	"08069"	32	324122	9.87
+	"Pueblo County, CO"	"08101"	29	161875	17.92
+	"Weld County, CO"	"08123"	20	277670	7.20
+	"Fairfield County, CT"	"09001"	87	945438	9.20
+	"Hartford County, CT"	"09003"	137	897985	15.26
+	"Litchfield County, CT"	"09005"	44	184993	23.78
+	"Middlesex County, CT"	"09007"	33	164943	20.01
+	"New Haven County, CT"	"09009"	126	861277	14.63
+	"New London County, CT"	"09011"	46	273676	16.81
+	"Tolland County, CT"	"09013"	25	151367	16.52
+	"Windham County, CT"	"09015"	27	116998	23.08
+	"Kent County, DE"	"10001"	33	171987	19.19
+	"New Castle County, DE"	"10003"	61	552778	11.04
+	"Sussex County, DE"	"10005"	30	210849	14.23
+	"District of Columbia, DC"	"11001"	63	658893	9.56
+	"Alachua County, FL"	"12001"	12	256380	Unreliable
+	"Bay County, FL"	"12005"	22	178985	12.29
+	"Brevard County, FL"	"12009"	29	556885	5.21
+	"Broward County, FL"	"12011"	102	1869235	5.46
+	"Citrus County, FL"	"12017"	12	139377	Unreliable
+	"Clay County, FL"	"12019"	16	199798	Unreliable
+	"Collier County, FL"	"12021"	36	348777	10.32
+	"Duval County, FL"	"12031"	85	897698	9.47
+	"Escambia County, FL"	"12033"	29	310659	9.33
+	"Hillsborough County, FL"	"12057"	120	1316298	9.12
+	"Lake County, FL"	"12069"	14	315690	Unreliable
+	"Lee County, FL"	"12071"	65	679513	9.57
+	"Leon County, FL"	"12073"	13	283988	Unreliable
+	"Manatee County, FL"	"12081"	75	351746	21.32
+	"Marion County, FL"	"12083"	19	339167	Unreliable
+	"Miami-Dade County, FL"	"12086"	85	2662874	3.19
+	"Okaloosa County, FL"	"12091"	18	196512	Unreliable
+	"Orange County, FL"	"12095"	139	1253001	11.09
+	"Osceola County, FL"	"12097"	32	310211	10.32
+	"Palm Beach County, FL"	"12099"	67	1397710	4.79
+	"Pasco County, FL"	"12101"	45	485331	9.27
+	"Pinellas County, FL"	"12103"	70	938098	7.46
+	"Polk County, FL"	"12105"	23	634638	3.62
+	"St. Johns County, FL"	"12109"	17	217919	Unreliable
+	"St. Lucie County, FL"	"12111"	11	291028	Unreliable
+	"Santa Rosa County, FL"	"12113"	12	163422	Unreliable
+	"Sarasota County, FL"	"12115"	36	396962	9.07
+	"Seminole County, FL"	"12117"	44	442516	9.94
+	"Volusia County, FL"	"12127"	55	507531	10.84
+	"Bartow County, GA"	"13015"	10	101736	Unreliable
+	"Bibb County, GA"	"13021"	10	153905	Unreliable
+	"Carroll County, GA"	"13045"	16	114093	Unreliable
+	"Chatham County, GA"	"13051"	17	283379	Unreliable
+	"Cherokee County, GA"	"13057"	22	230985	9.52
+	"Clayton County, GA"	"13063"	15	267542	Unreliable
+	"Cobb County, GA"	"13067"	47	730981	6.43
+	"Columbia County, GA"	"13073"	11	139257	Unreliable
+	"Coweta County, GA"	"13077"	10	135571	Unreliable
+	"DeKalb County, GA"	"13089"	28	722161	3.88
+	"Douglas County, GA"	"13097"	17	138776	Unreliable
+	"Fayette County, GA"	"13113"	13	109664	Unreliable
+	"Forsyth County, GA"	"13117"	22	204302	10.77
+	"Fulton County, GA"	"13121"	93	996319	9.33
+	"Gwinnett County, GA"	"13135"	42	877922	4.78
+	"Hall County, GA"	"13139"	10	190761	Unreliable
+	"Henry County, GA"	"13151"	12	213869	Unreliable
+	"Paulding County, GA"	"13223"	30	148987	20.14
+	"Richmond County, GA"	"13245"	16	201368	Unreliable
+	"Troup County, GA"	"13285"	10	69469	Unreliable
+	"Walton County, GA"	"13297"	10	87615	Unreliable
+	"Ware County, GA"	"13299"	12	35515	Unreliable
+	"Honolulu County, HI"	"15003"	35	991788	3.53
+	"Maui County, HI"	"15009"	14	163019	Unreliable
+	"Ada County, ID"	"16001"	37	426236	8.68
+	"Champaign County, IL"	"17019"	22	207133	10.62
+	"Cook County, IL"	"17031"	480	5246456	9.15
+	"DuPage County, IL"	"17043"	67	932708	7.18
+	"Kane County, IL"	"17089"	25	527306	4.74
+	"Kankakee County, IL"	"17091"	12	111375	Unreliable
+	"Lake County, IL"	"17097"	67	705186	9.50
+	"LaSalle County, IL"	"17099"	11	111241	Unreliable
+	"McHenry County, IL"	"17111"	25	307283	8.14
+	"McLean County, IL"	"17113"	17	174061	Unreliable
+	"Madison County, IL"	"17119"	72	266560	27.01
+	"Peoria County, IL"	"17143"	22	187319	11.74
+	"St. Clair County, IL"	"17163"	27	265729	10.16
+	"Sangamon County, IL"	"17167"	28	198997	14.07
+	"Tazewell County, IL"	"17179"	16	135707	Unreliable
+	"Vermilion County, IL"	"17183"	10	79728	Unreliable
+	"Whiteside County, IL"	"17195"	10	56876	Unreliable
+	"Will County, IL"	"17197"	62	685419	9.05
+	"Winnebago County, IL"	"17201"	56	288542	19.41
+	"Allen County, IN"	"18003"	13	365918	Unreliable
+	"Delaware County, IN"	"18035"	24	117074	20.50
+	"Elkhart County, IN"	"18039"	10	201971	Unreliable
+	"Floyd County, IN"	"18043"	14	76179	Unreliable
+	"Hancock County, IN"	"18059"	12	71978	Unreliable
+	"Hendricks County, IN"	"18063"	11	156056	Unreliable
+	"Lake County, IN"	"18089"	36	490228	7.34
+	"Madison County, IN"	"18095"	18	130069	Unreliable
+	"Marion County, IN"	"18097"	73	934243	7.81
+	"Porter County, IN"	"18127"	34	167076	20.35
+	"St. Joseph County, IN"	"18141"	27	267618	10.09
+	"Johnson County, IA"	"19103"	16	142287	Unreliable
+	"Linn County, IA"	"19113"	22	217751	10.10
+	"Polk County, IA"	"19153"	26	459862	5.65
+	"Scott County, IA"	"19163"	11	171387	Unreliable
+	"Johnson County, KS"	"20091"	41	574272	7.14
+	"Leavenworth County, KS"	"20103"	11	78797	Unreliable
+	"Sedgwick County, KS"	"20173"	32	508803	6.29
+	"Shawnee County, KS"	"20177"	13	178406	Unreliable
+	"Bell County, KY"	"21013"	10	27778	Unreliable
+	"Boone County, KY"	"21015"	26	126413	20.57
+	"Boyd County, KY"	"21019"	14	48832	Unreliable
+	"Bullitt County, KY"	"21029"	23	77955	29.50
+	"Campbell County, KY"	"21037"	38	91833	41.38
+	"Fayette County, KY"	"21067"	67	310797	21.56
+	"Floyd County, KY"	"21071"	18	38108	Unreliable
+	"Grant County, KY"	"21081"	10	24875	Unreliable
+	"Hardin County, KY"	"21093"	13	108266	Unreliable
+	"Jefferson County, KY"	"21111"	96	760026	12.63
+	"Kenton County, KY"	"21117"	56	163929	34.16
+	"McCracken County, KY"	"21145"	14	65316	Unreliable
+	"Madison County, KY"	"21151"	22	87340	25.19
+	"Pike County, KY"	"21195"	20	63034	31.73
+	"Powell County, KY"	"21197"	11	12434	Unreliable
+	"Russell County, KY"	"21207"	12	17774	Unreliable
+	"Warren County, KY"	"21227"	11	120460	Unreliable
+	"Whitley County, KY"	"21235"	14	35503	Unreliable
+	"Ascension Parish, LA"	"22005"	10	117029	Unreliable
+	"East Baton Rouge Parish, LA"	"22033"	26	446042	5.83
+	"Jefferson Parish, LA"	"22051"	65	435716	14.92
+	"Orleans Parish, LA"	"22071"	31	384320	8.07
+	"St. Tammany Parish, LA"	"22103"	53	245829	21.56
+	"Androscoggin County, ME"	"23001"	20	107440	18.62
+	"Cumberland County, ME"	"23005"	35	287797	12.16
+	"Kennebec County, ME"	"23011"	16	121112	Unreliable
+	"Penobscot County, ME"	"23019"	16	153414	Unreliable
+	"York County, ME"	"23031"	34	200710	16.94
+	"Allegany County, MD"	"24001"	11	72952	Unreliable
+	"Anne Arundel County, MD"	"24003"	105	560133	18.75
+	"Baltimore County, MD"	"24005"	167	826925	20.20
+	"Calvert County, MD"	"24009"	18	90613	Unreliable
+	"Caroline County, MD"	"24011"	11	32538	Unreliable
+	"Carroll County, MD"	"24013"	31	167830	18.47
+	"Cecil County, MD"	"24015"	32	102383	31.26
+	"Charles County, MD"	"24017"	18	154747	Unreliable
+	"Frederick County, MD"	"24021"	37	243675	15.18
+	"Harford County, MD"	"24025"	38	250105	15.19
+	"Howard County, MD"	"24027"	17	309284	Unreliable
+	"Montgomery County, MD"	"24031"	59	1030447	5.73
+	"Prince George's County, MD"	"24033"	54	904430	5.97
+	"Queen Anne's County, MD"	"24035"	10	48804	Unreliable
+	"St. Mary's County, MD"	"24037"	10	110382	Unreliable
+	"Washington County, MD"	"24043"	40	149573	26.74
+	"Wicomico County, MD"	"24045"	11	101539	Unreliable
+	"Baltimore city, MD"	"24510"	232	622793	37.25
+	"Barnstable County, MA"	"25001"	49	214914	22.80
+	"Berkshire County, MA"	"25003"	24	128715	18.65
+	"Bristol County, MA"	"25005"	140	554194	25.26
+	"Essex County, MA"	"25009"	170	769091	22.10
+	"Franklin County, MA"	"25011"	10	70862	Unreliable
+	"Hampden County, MA"	"25013"	51	468161	10.89
+	"Hampshire County, MA"	"25015"	20	160939	12.43
+	"Middlesex County, MA"	"25017"	231	1570315	14.71
+	"Norfolk County, MA"	"25021"	111	692254	16.03
+	"Plymouth County, MA"	"25023"	91	507022	17.95
+	"Suffolk County, MA"	"25025"	118	767254	15.38
+	"Worcester County, MA"	"25027"	119	813475	14.63
+	"Allegan County, MI"	"26005"	19	113847	Unreliable
+	"Calhoun County, MI"	"26025"	26	134878	19.28
+	"Eaton County, MI"	"26045"	11	108579	Unreliable
+	"Genesee County, MI"	"26049"	36	412895	8.72
+	"Ingham County, MI"	"26065"	47	284582	16.52
+	"Ionia County, MI"	"26067"	14	64294	Unreliable
+	"Kalamazoo County, MI"	"26077"	31	258818	11.98
+	"Kent County, MI"	"26081"	49	629237	7.79
+	"Livingston County, MI"	"26093"	39	185596	21.01
+	"Macomb County, MI"	"26099"	149	860112	17.32
+	"Monroe County, MI"	"26115"	25	149824	16.69
+	"Muskegon County, MI"	"26121"	44	172344	25.53
+	"Oakland County, MI"	"26125"	38	1237868	3.07
+	"Ottawa County, MI"	"26139"	25	276292	9.05
+	"St. Clair County, MI"	"26147"	26	160078	16.24
+	"Washtenaw County, MI"	"26161"	58	356874	16.25
+	"Wayne County, MI"	"26163"	262	1764804	14.85
+	"Anoka County, MN"	"27003"	19	341864	Unreliable
+	"Dakota County, MN"	"27037"	16	412529	Unreliable
+	"Hennepin County, MN"	"27053"	93	1212064	7.67
+	"Olmsted County, MN"	"27109"	11	150287	Unreliable
+	"Ramsey County, MN"	"27123"	28	532655	5.26
+	"St. Louis County, MN"	"27137"	26	200949	12.94
+	"Sherburne County, MN"	"27141"	10	91126	Unreliable
+	"Washington County, MN"	"27163"	14	249283	Unreliable
+	"DeSoto County, MS"	"28033"	18	170913	Unreliable
+	"Cass County, MO"	"29037"	10	100889	Unreliable
+	"Clay County, MO"	"29047"	15	233682	Unreliable
+	"Franklin County, MO"	"29071"	19	102084	Unreliable
+	"Greene County, MO"	"29077"	32	285865	11.19
+	"Jackson County, MO"	"29095"	68	683191	9.95
+	"Jefferson County, MO"	"29099"	63	222716	28.29
+	"St. Charles County, MO"	"29183"	56	379493	14.76
+	"St. Francois County, MO"	"29187"	11	65960	Unreliable
+	"St. Louis County, MO"	"29189"	165	1001876	16.47
+	"St. Louis city, MO"	"29510"	104	317419	32.76
+	"Douglas County, NE"	"31055"	28	543244	5.15
+	"Clark County, NV"	"32003"	277	2069681	13.38
+	"Washoe County, NV"	"32031"	55	440078	12.50
+	"Belknap County, NH"	"33001"	10	60305	Unreliable
+	"Cheshire County, NH"	"33005"	14	76115	Unreliable
+	"Coos County, NH"	"33007"	11	31653	Unreliable
+	"Grafton County, NH"	"33009"	13	89658	Unreliable
+	"Hillsborough County, NH"	"33011"	97	405184	23.94
+	"Merrimack County, NH"	"33013"	37	147171	25.14
+	"Rockingham County, NH"	"33015"	61	300621	20.29
+	"Strafford County, NH"	"33017"	42	125604	33.44
+	"Atlantic County, NJ"	"34001"	48	275209	17.44
+	"Bergen County, NJ"	"34003"	63	933572	6.75
+	"Burlington County, NJ"	"34005"	26	449722	5.78
+	"Cape May County, NJ"	"34009"	14	95344	Unreliable
+	"Cumberland County, NJ"	"34011"	24	157389	15.25
+	"Essex County, NJ"	"34013"	66	795723	8.29
+	"Hudson County, NJ"	"34017"	41	669115	6.13
+	"Mercer County, NJ"	"34021"	33	371537	8.88
+	"Middlesex County, NJ"	"34023"	100	836297	11.96
+	"Monmouth County, NJ"	"34025"	75	629279	11.92
+	"Morris County, NJ"	"34027"	42	499727	8.40
+	"Ocean County, NJ"	"34029"	48	586301	8.19
+	"Passaic County, NJ"	"34031"	40	508856	7.86
+	"Somerset County, NJ"	"34035"	26	332568	7.82
+	"Sussex County, NJ"	"34037"	12	144909	Unreliable
+	"Union County, NJ"	"34039"	35	552939	6.33
+	"Warren County, NJ"	"34041"	14	106917	Unreliable
+	"Bernalillo County, NM"	"35001"	139	675551	20.58
+	"Dona Ana County, NM"	"35013"	25	213676	11.70
+	"Eddy County, NM"	"35015"	10	56395	Unreliable
+	"Lea County, NM"	"35025"	10	69999	Unreliable
+	"Otero County, NM"	"35035"	13	65082	Unreliable
+	"Rio Arriba County, NM"	"35039"	34	39777	85.48
+	"Sandoval County, NM"	"35043"	24	137608	17.44
+	"San Juan County, NM"	"35045"	13	123785	Unreliable
+	"Santa Fe County, NM"	"35049"	41	148164	27.67
+	"Valencia County, NM"	"35061"	15	75817	Unreliable
+	"Albany County, NY"	"36001"	23	308171	7.46
+	"Bronx County, NY"	"36005"	103	1438159	7.16
+	"Broome County, NY"	"36007"	27	197349	13.68
+	"Chautauqua County, NY"	"36013"	14	132053	Unreliable
+	"Dutchess County, NY"	"36027"	40	296579	13.49
+	"Erie County, NY"	"36029"	113	922835	12.24
+	"Jefferson County, NY"	"36045"	13	119103	Unreliable
+	"Kings County, NY"	"36047"	162	2621793	6.18
+	"Monroe County, NY"	"36055"	89	749857	11.87
+	"Nassau County, NY"	"36059"	146	1358627	10.75
+	"New York County, NY"	"36061"	106	1636268	6.48
+	"Niagara County, NY"	"36063"	25	213525	11.71
+	"Oneida County, NY"	"36065"	37	232871	15.89
+	"Onondaga County, NY"	"36067"	57	468196	12.17
+	"Ontario County, NY"	"36069"	10	109707	Unreliable
+	"Orange County, NY"	"36071"	62	376099	16.49
+	"Oswego County, NY"	"36075"	15	120913	Unreliable
+	"Putnam County, NY"	"36079"	10	99487	Unreliable
+	"Queens County, NY"	"36081"	112	2321580	4.82
+	"Richmond County, NY"	"36085"	72	473279	15.21
+	"Rockland County, NY"	"36087"	16	323866	Unreliable
+	"St. Lawrence County, NY"	"36089"	10	111400	Unreliable
+	"Saratoga County, NY"	"36091"	20	224921	8.89
+	"Suffolk County, NY"	"36103"	206	1502968	13.71
+	"Sullivan County, NY"	"36105"	20	75943	26.34
+	"Tompkins County, NY"	"36109"	14	104691	Unreliable
+	"Ulster County, NY"	"36111"	20	180445	11.08
+	"Westchester County, NY"	"36119"	71	972634	7.30
+	"Alamance County, NC"	"37001"	15	155792	Unreliable
+	"Brunswick County, NC"	"37019"	18	118836	Unreliable
+	"Buncombe County, NC"	"37021"	25	250539	9.98
+	"Burke County, NC"	"37023"	21	89486	23.47
+	"Cabarrus County, NC"	"37025"	17	192103	Unreliable
+	"Caldwell County, NC"	"37027"	11	81484	Unreliable
+	"Carteret County, NC"	"37031"	13	68811	Unreliable
+	"Catawba County, NC"	"37035"	22	154534	14.24
+	"Craven County, NC"	"37049"	12	104510	Unreliable
+	"Cumberland County, NC"	"37051"	35	326328	10.73
+	"Davidson County, NC"	"37057"	29	164072	17.68
+	"Durham County, NC"	"37063"	15	294460	Unreliable
+	"Forsyth County, NC"	"37067"	47	365298	12.87
+	"Gaston County, NC"	"37071"	36	211127	17.05
+	"Guilford County, NC"	"37081"	42	512119	8.20
+	"Harnett County, NC"	"37085"	11	126666	Unreliable
+	"Henderson County, NC"	"37089"	10	111149	Unreliable
+	"Iredell County, NC"	"37097"	22	166675	13.20
+	"Johnston County, NC"	"37101"	11	181423	Unreliable
+	"Mecklenburg County, NC"	"37119"	71	1012539	7.01
+	"New Hanover County, NC"	"37129"	25	216298	11.56
+	"Onslow County, NC"	"37133"	15	187589	Unreliable
+	"Pitt County, NC"	"37147"	19	175354	Unreliable
+	"Randolph County, NC"	"37151"	13	142778	Unreliable
+	"Richmond County, NC"	"37153"	10	45733	Unreliable
+	"Robeson County, NC"	"37155"	19	134760	Unreliable
+	"Rowan County, NC"	"37159"	23	138630	16.59
+	"Sampson County, NC"	"37163"	15	64050	Unreliable
+	"Surry County, NC"	"37171"	15	72968	Unreliable
+	"Union County, NC"	"37179"	16	218568	Unreliable
+	"Wake County, NC"	"37183"	55	998691	5.51
+	"Wilkes County, NC"	"37193"	29	68838	42.13
+	"Yadkin County, NC"	"37197"	12	37792	Unreliable
+	"Cass County, ND"	"38017"	11	167005	Unreliable
+	"Adams County, OH"	"39001"	10	28129	Unreliable
+	"Ashtabula County, OH"	"39007"	20	99175	20.17
+	"Brown County, OH"	"39015"	10	44116	Unreliable
+	"Butler County, OH"	"39017"	139	374158	37.15
+	"Clark County, OH"	"39023"	34	136554	24.90
+	"Clermont County, OH"	"39025"	75	201560	37.21
+	"Columbiana County, OH"	"39029"	10	105686	Unreliable
+	"Cuyahoga County, OH"	"39035"	234	1259828	18.57
+	"Delaware County, OH"	"39041"	11	189113	Unreliable
+	"Erie County, OH"	"39043"	11	75828	Unreliable
+	"Fairfield County, OH"	"39045"	12	150381	Unreliable
+	"Franklin County, OH"	"39049"	178	1231393	14.46
+	"Geauga County, OH"	"39055"	11	94295	Unreliable
+	"Greene County, OH"	"39057"	22	163820	13.43
+	"Guernsey County, OH"	"39059"	10	39590	Unreliable
+	"Hamilton County, OH"	"39061"	229	806631	28.39
+	"Hancock County, OH"	"39063"	10	75337	Unreliable
+	"Highland County, OH"	"39071"	10	43045	Unreliable
+	"Huron County, OH"	"39077"	14	58714	Unreliable
+	"Lake County, OH"	"39085"	46	229230	20.07
+	"Licking County, OH"	"39089"	18	169390	Unreliable
+	"Lorain County, OH"	"39093"	60	304216	19.72
+	"Lucas County, OH"	"39095"	94	435286	21.59
+	"Mahoning County, OH"	"39099"	45	233204	19.30
+	"Marion County, OH"	"39101"	23	65720	35.00
+	"Medina County, OH"	"39103"	16	176029	Unreliable
+	"Miami County, OH"	"39109"	16	103900	Unreliable
+	"Montgomery County, OH"	"39113"	155	533116	29.07
+	"Portage County, OH"	"39133"	30	161882	18.53
+	"Richland County, OH"	"39139"	26	121942	21.32
+	"Ross County, OH"	"39141"	26	77159	33.70
+	"Scioto County, OH"	"39145"	12	77258	Unreliable
+	"Seneca County, OH"	"39147"	10	55669	Unreliable
+	"Stark County, OH"	"39151"	57	375736	15.17
+	"Summit County, OH"	"39153"	105	541943	19.37
+	"Trumbull County, OH"	"39155"	50	205175	24.37
+	"Warren County, OH"	"39165"	28	221659	12.63
+	"Wood County, OH"	"39173"	12	129590	Unreliable
+	"Canadian County, OK"	"40017"	13	129582	Unreliable
+	"Cherokee County, OK"	"40021"	11	48341	Unreliable
+	"Cleveland County, OK"	"40027"	26	269908	9.63
+	"Comanche County, OK"	"40031"	23	125033	18.40
+	"Creek County, OK"	"40037"	17	70632	Unreliable
+	"Delaware County, OK"	"40041"	10	41446	Unreliable
+	"Muskogee County, OK"	"40101"	17	69966	Unreliable
+	"Oklahoma County, OK"	"40109"	93	766215	12.14
+	"Pittsburg County, OK"	"40121"	11	44626	Unreliable
+	"Rogers County, OK"	"40131"	12	89815	Unreliable
+	"Stephens County, OK"	"40137"	10	44493	Unreliable
+	"Tulsa County, OK"	"40143"	80	629598	12.71
+	"Wagoner County, OK"	"40145"	14	75702	Unreliable
+	"Clackamas County, OR"	"41005"	31	394972	7.85
+	"Deschutes County, OR"	"41017"	10	170388	Unreliable
+	"Jackson County, OR"	"41029"	16	210287	Unreliable
+	"Lane County, OR"	"41039"	36	358337	10.05
+	"Linn County, OR"	"41043"	20	119356	16.76
+	"Marion County, OR"	"41047"	13	326110	Unreliable
+	"Multnomah County, OR"	"41051"	90	776712	11.59
+	"Washington County, OR"	"41067"	35	562998	6.22
+	"Allegheny County, PA"	"42003"	242	1231255	19.65
+	"Armstrong County, PA"	"42005"	13	67785	Unreliable
+	"Beaver County, PA"	"42007"	21	169392	12.40
+	"Berks County, PA"	"42011"	41	413691	9.91
+	"Bucks County, PA"	"42017"	23	626685	3.67
+	"Butler County, PA"	"42019"	22	185943	11.83
+	"Cambria County, PA"	"42021"	10	137732	Unreliable
+	"Centre County, PA"	"42027"	10	158742	Unreliable
+	"Chester County, PA"	"42029"	11	512784	Unreliable
+	"Cumberland County, PA"	"42041"	13	243762	Unreliable
+	"Dauphin County, PA"	"42043"	17	271453	Unreliable
+	"Delaware County, PA"	"42045"	40	562960	7.11
+	"Erie County, PA"	"42049"	26	278443	9.34
+	"Fayette County, PA"	"42051"	33	134086	24.61
+	"Franklin County, PA"	"42055"	18	152892	Unreliable
+	"Lackawanna County, PA"	"42069"	32	212719	15.04
+	"Lancaster County, PA"	"42071"	27	533320	5.06
+	"Lawrence County, PA"	"42073"	19	88771	Unreliable
+	"Lebanon County, PA"	"42075"	10	136359	Unreliable
+	"Lehigh County, PA"	"42077"	18	357823	Unreliable
+	"Mercer County, PA"	"42085"	11	114884	Unreliable
+	"Monroe County, PA"	"42089"	23	166314	13.83
+	"Montgomery County, PA"	"42091"	98	816857	12.00
+	"Northampton County, PA"	"42095"	21	300654	6.98
+	"Philadelphia County, PA"	"42101"	41	1560297	2.63
+	"Schuylkill County, PA"	"42107"	18	145797	Unreliable
+	"Susquehanna County, PA"	"42115"	16	41920	Unreliable
+	"Washington County, PA"	"42125"	30	208187	14.41
+	"Westmoreland County, PA"	"42129"	17	359320	Unreliable
+	"York County, PA"	"42133"	53	440755	12.02
+	"Bristol County, RI"	"44001"	10	49060	Unreliable
+	"Kent County, RI"	"44003"	30	165128	18.17
+	"Providence County, RI"	"44007"	131	631974	20.73
+	"Washington County, RI"	"44009"	27	126653	21.32
+	"Aiken County, SC"	"45003"	23	164753	13.96
+	"Anderson County, SC"	"45007"	31	192810	16.08
+	"Beaufort County, SC"	"45013"	10	175852	Unreliable
+	"Berkeley County, SC"	"45015"	19	198205	Unreliable
+	"Charleston County, SC"	"45019"	33	381015	8.66
+	"Dorchester County, SC"	"45035"	10	148469	Unreliable
+	"Florence County, SC"	"45041"	16	139231	Unreliable
+	"Georgetown County, SC"	"45043"	11	60773	Unreliable
+	"Greenville County, SC"	"45045"	63	482752	13.05
+	"Greenwood County, SC"	"45047"	11	69520	Unreliable
+	"Horry County, SC"	"45051"	50	298832	16.73
+	"Lexington County, SC"	"45063"	37	277888	13.31
+	"Oconee County, SC"	"45073"	18	75192	Unreliable
+	"Pickens County, SC"	"45077"	26	120368	21.60
+	"Richland County, SC"	"45079"	34	401566	8.47
+	"Spartanburg County, SC"	"45083"	30	293542	10.22
+	"York County, SC"	"45091"	28	245346	11.41
+	"Minnehaha County, SD"	"46099"	12	182882	Unreliable
+	"Anderson County, TN"	"47001"	11	75528	Unreliable
+	"Blount County, TN"	"47009"	15	126339	Unreliable
+	"Bradley County, TN"	"47011"	17	102975	Unreliable
+	"Campbell County, TN"	"47013"	15	39918	Unreliable
+	"Cheatham County, TN"	"47021"	16	39764	Unreliable
+	"Cumberland County, TN"	"47035"	11	57985	Unreliable
+	"Davidson County, TN"	"47037"	99	668347	14.81
+	"Greene County, TN"	"47059"	14	68335	Unreliable
+	"Hamblen County, TN"	"47063"	19	63036	Unreliable
+	"Hamilton County, TN"	"47065"	38	351220	10.82
+	"Knox County, TN"	"47093"	94	448644	20.95
+	"Loudon County, TN"	"47105"	11	50771	Unreliable
+	"Maury County, TN"	"47119"	12	85515	Unreliable
+	"Montgomery County, TN"	"47125"	23	189961	12.11
+	"Putnam County, TN"	"47141"	16	74165	Unreliable
+	"Roane County, TN"	"47145"	12	52748	Unreliable
+	"Rutherford County, TN"	"47149"	24	288906	8.31
+	"Shelby County, TN"	"47157"	113	938803	12.04
+	"Sullivan County, TN"	"47163"	22	157047	14.01
+	"Washington County, TN"	"47179"	14	126242	Unreliable
+	"Williamson County, TN"	"47187"	14	205226	Unreliable
+	"Wilson County, TN"	"47189"	16	125376	Unreliable
+	"Bexar County, TX"	"48029"	93	1855866	5.01
+	"Brazoria County, TX"	"48039"	14	338124	Unreliable
+	"Collin County, TX"	"48085"	35	885241	3.95
+	"Dallas County, TX"	"48113"	170	2518638	6.75
+	"Denton County, TX"	"48121"	21	753363	2.79
+	"Ector County, TX"	"48135"	13	153904	Unreliable
+	"El Paso County, TX"	"48141"	33	833487	3.96
+	"Fort Bend County, TX"	"48157"	23	685345	3.36
+	"Galveston County, TX"	"48167"	19	314198	Unreliable
+	"Harris County, TX"	"48201"	226	4441370	5.09
+	"Jefferson County, TX"	"48245"	15	252235	Unreliable
+	"Kaufman County, TX"	"48257"	12	111236	Unreliable
+	"Lubbock County, TX"	"48303"	16	293974	Unreliable
+	"Midland County, TX"	"48329"	11	155830	Unreliable
+	"Montgomery County, TX"	"48339"	14	518947	Unreliable
+	"Nueces County, TX"	"48355"	36	356221	10.11
+	"Tarrant County, TX"	"48439"	95	1945360	4.88
+	"Travis County, TX"	"48453"	25	1151145	2.17
+	"Webb County, TX"	"48479"	13	266673	Unreliable
+	"Wichita County, TX"	"48485"	11	132355	Unreliable
+	"Cache County, UT"	"49005"	10	118343	Unreliable
+	"Carbon County, UT"	"49007"	10	20660	Unreliable
+	"Davis County, UT"	"49011"	40	329692	12.13
+	"Salt Lake County, UT"	"49035"	192	1091742	17.59
+	"Tooele County, UT"	"49045"	15	61598	Unreliable
+	"Utah County, UT"	"49049"	75	560974	13.37
+	"Washington County, UT"	"49053"	17	151948	Unreliable
+	"Weber County, UT"	"49057"	49	240475	20.38
+	"Chittenden County, VT"	"50007"	17	160531	Unreliable
+	"Chesterfield County, VA"	"51041"	22	332499	6.62
+	"Culpeper County, VA"	"51047"	12	49166	Unreliable
+	"Fairfax County, VA"	"51059"	58	1137538	5.10
+	"Frederick County, VA"	"51069"	17	82377	Unreliable
+	"Hanover County, VA"	"51085"	11	101918	Unreliable
+	"Henrico County, VA"	"51087"	27	321924	8.39
+	"Loudoun County, VA"	"51107"	25	363050	6.89
+	"Orange County, VA"	"51137"	10	35026	Unreliable
+	"Prince William County, VA"	"51153"	30	446094	6.73
+	"Pulaski County, VA"	"51155"	10	34322	Unreliable
+	"Roanoke County, VA"	"51161"	15	93785	Unreliable
+	"Russell County, VA"	"51167"	11	28023	Unreliable
+	"Spotsylvania County, VA"	"51177"	10	129188	Unreliable
+	"Tazewell County, VA"	"51185"	12	43452	Unreliable
+	"Chesapeake city, VA"	"51550"	18	233371	Unreliable
+	"Hampton city, VA"	"51650"	10	136879	Unreliable
+	"Newport News city, VA"	"51700"	17	182965	Unreliable
+	"Norfolk city, VA"	"51710"	26	245428	10.59
+	"Portsmouth city, VA"	"51740"	16	96004	Unreliable
+	"Richmond city, VA"	"51760"	41	217853	18.82
+	"Virginia Beach city, VA"	"51810"	39	450980	8.65
+	"Benton County, WA"	"53005"	18	186486	Unreliable
+	"Clark County, WA"	"53011"	41	451008	9.09
+	"Cowlitz County, WA"	"53015"	17	102133	Unreliable
+	"Island County, WA"	"53029"	10	79275	Unreliable
+	"King County, WA"	"53033"	222	2079967	10.67
+	"Kitsap County, WA"	"53035"	20	254183	7.87
+	"Pierce County, WA"	"53053"	84	831928	10.10
+	"Snohomish County, WA"	"53061"	99	759583	13.03
+	"Spokane County, WA"	"53063"	30	484318	6.19
+	"Thurston County, WA"	"53067"	17	265851	Unreliable
+	"Whatcom County, WA"	"53073"	14	208351	Unreliable
+	"Yakima County, WA"	"53077"	14	247687	Unreliable
+	"Berkeley County, WV"	"54003"	39	110497	35.30
+	"Boone County, WV"	"54005"	22	23714	92.77
+	"Cabell County, WV"	"54011"	45	97109	46.34
+	"Fayette County, WV"	"54019"	16	45132	Unreliable
+	"Greenbrier County, WV"	"54025"	11	35450	Unreliable
+	"Hancock County, WV"	"54029"	12	30112	Unreliable
+	"Harrison County, WV"	"54033"	16	68761	Unreliable
+	"Jefferson County, WV"	"54037"	11	55713	Unreliable
+	"Kanawha County, WV"	"54039"	74	190223	38.90
+	"Logan County, WV"	"54045"	20	35348	56.58
+	"Mason County, WV"	"54053"	12	27016	Unreliable
+	"Mercer County, WV"	"54055"	37	61785	59.89
+	"Mingo County, WV"	"54059"	23	25716	89.44
+	"Monongalia County, WV"	"54061"	13	103463	Unreliable
+	"Raleigh County, WV"	"54081"	34	78241	43.46
+	"Wayne County, WV"	"54099"	18	41122	Unreliable
+	"Wood County, WV"	"54107"	20	86237	23.19
+	"Wyoming County, WV"	"54109"	19	22598	Unreliable
+	"Brown County, WI"	"55009"	12	256670	Unreliable
+	"Dane County, WI"	"55025"	62	516284	12.01
+	"Jefferson County, WI"	"55055"	10	84395	Unreliable
+	"Kenosha County, WI"	"55059"	38	168068	22.61
+	"Manitowoc County, WI"	"55071"	10	80160	Unreliable
+	"Milwaukee County, WI"	"55079"	212	956406	22.17
+	"Outagamie County, WI"	"55087"	12	182006	Unreliable
+	"Racine County, WI"	"55101"	37	195163	18.96
+	"Rock County, WI"	"55105"	22	161188	13.65
+	"Walworth County, WI"	"55127"	14	103527	Unreliable
+	"Washington County, WI"	"55131"	16	133251	Unreliable
+	"Waukesha County, WI"	"55133"	40	395118	10.12
+	"Winnebago County, WI"	"55139"	24	169511	14.16
+	"Natrona County, WY"	"56025"	14	81624	Unreliable
+"Total"			28647	318857056	8.98
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics);"
+"T40.6 (Other and unspecified narcotics)"
+"UCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X85 (Assault by drugs,"
+"medicaments and biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent); Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"Year/Month: 2014"
+"Group By: County"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Oct 29, 2023 5:08:22 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Oct 29, 2023 5:08:22 PM"
+"---"
+Messages:
+"1. Rows with zero Deaths are hidden, but the Population values in those rows are included in the totals. Use Quick Options above"
+"to show zero rows."
+"2. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data are not available for this area for all of the requested years. See Caveats below for more information."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Data for Prince of Wales-Outer Ketchikan Census Area, AK (FIPS code 02201), Skagway-Hoonah-Angoon Census Area, AK (FIPS code"
+"02232) and Wrangell-Petersburg Census Area, AK (FIPS code 02280) are only available for 2013 and earlier; for computational"
+"purposes, counts and population estimates for 2014 and later are set to zero. Thus, counts and rates shown in multi-year"
+"requests for this entity do not include any data for years after 2013, only data for 2013 and earlier. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Alaska2014."
+"3. Data for Bedford city, Va. (FIPS code 51515) are only available for 2013 and earlier; for computational purposes, counts and"
+"population estimates for 2014 and later are set to zero. Thus, counts and rates shown in multi-year requests for this entity do"
+"not include any data for years after 2014, only data for 2013 and earlier. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Bedford."
+"4. Death rates for Clifton Forge city, Virginia (FIPS code 51560) are available only for 1999-2000. For 2001 and beyond, death"
+"counts and population estimates for Clifton Forge city have been combined with those for Alleghany county, Virginia (FIPS code"
+"51005). Death counts and population estimates for this entity from multi-year requests, only reflect data from 1999 and 2000;"
+"for 2001 and beyond they have been set to zero. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Clifton Forge."
+"5. Deaths and population estimates are shown separately from the adjacent counties for Carson City, Nevada (FIPS code 32510)."
+"6. Deaths and population estimates are reported separately for Baltimore City (FIPS code 24510) and Baltimore county (FIPS code"
+"24005)."
+"7. Deaths and population estimates are reported separately for St. Louis City (FIPS code 29510) and county (FIPS code 29189)."
+"8. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"9. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"10. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"11. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"12. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."
